@@ -13,7 +13,7 @@ Este repositorio incluye:
 - **Tutoriales**: Contenido educativo organizado por nivel
   - `basic/`: Tutoriales para principiantes
   - `intermediate/`: Contenido de nivel intermedio
-  - `advance/`: Tutoriales avanzados
+  - `advanced/`: Tutoriales avanzados
 - **Labs**: Ejercicios prácticos y proyectos
 - **Community**: Recursos y contribuciones de la comunidad
 
