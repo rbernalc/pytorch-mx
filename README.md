@@ -26,6 +26,8 @@ Proyectos prácticos y experimentos hands-on para aplicar los conocimientos adqu
 
 ## 🚀 Comenzando
 
+> 📖 **¿Primera vez aquí?** Lee nuestra [Guía de Inicio Rápido](INICIO_RAPIDO.md) para ponerte en marcha en 5 minutos.
+
 ### Requisitos Previos
 
 - Python 3.8 o superior
