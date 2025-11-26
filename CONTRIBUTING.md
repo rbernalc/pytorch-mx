@@ -43,7 +43,7 @@
 
 ### Contribuir con Tutoriales
 
-- Los tutoriales se organizan en tres niveles: `basic`, `intermediate`, y `advance`
+- Los tutoriales se organizan en tres niveles: `basic`, `intermediate`, y `advanced`
 - Asegúrate de que el tutorial esté en español
 - Incluye ejemplos prácticos y ejecutables
 - Documenta todas las dependencias necesarias
